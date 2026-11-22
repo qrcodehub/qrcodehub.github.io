@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qrcodehub.github.io/sitemap.xml
